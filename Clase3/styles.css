@@ -17,3 +17,10 @@ p
  .textoRojo{
     color:red;
  } /*CLASS PARA USAR EN HTML COMO LLAMADA*/
+
+  h2{
+    color:burlywood;
+    background-color: beige;
+ } /*color: PROPIEDAD DE COLOR TIPOGRAFICO*/
+
+ 
