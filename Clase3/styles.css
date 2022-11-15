@@ -1,0 +1,19 @@
+/* SELECTORES */
+h1 {    
+    color:crimson
+} /*ahi le marco que todos los <h1> del html sean en rojo*/
+
+p
+{
+  color:white  
+ } /*a todos los <p> le va a dar color blanco a las letras. */
+
+ /*ATRIBUTOS  "class" queiro que ciertos <p> tengan X estilo- <p class=" " */
+
+ button{
+    background-color: aquamarine;
+ } /*CAMBIAR COLOR DE FONDO DE UN BOTON*/
+
+ .textoRojo{
+    color:red;
+ } /*CLASS PARA USAR EN HTML COMO LLAMADA*/
