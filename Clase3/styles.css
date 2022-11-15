@@ -23,4 +23,19 @@ p
     background-color: beige;
  } /*color: PROPIEDAD DE COLOR TIPOGRAFICO*/
 
- 
+
+ /*DEFINIR COLORES
+
+ HEXADECIMAL (# A-F o 0-9) - RGB - RGBA - COLORES PREDEFINIDOS POR CSS
+
+ */
+
+ body{
+    background-color: aquamarine;
+ } /*CAMBIO DEL COLOR DE FONDO EN EL BODY/*
+
+/*CAMBIAR TAMAÑOS*/
+
+img{
+    width: 50% ; 
+}
