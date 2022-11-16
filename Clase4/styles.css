@@ -1,3 +1,10 @@
 body{
-   
+   background-color: beige;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /*ACA PONGO UNA TIPOGRAFIA A TODO EL BODY*/
+
 }
+
+h1{
+    font-family: 'Times New Roman', Times, serif; /*SOLO CAMBIO TIPOGRAFIA DE h1*/
+}
+
