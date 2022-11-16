@@ -1,3 +1,6 @@
+/* MANERA DE IMPORTAR Y NO PONER LINK EN EL HTML - 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap'); */
+
 body{
    background-color: beige;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /*ACA PONGO UNA TIPOGRAFIA A TODO EL BODY*/
@@ -10,6 +13,9 @@ h1{
 
 h2{
     font-family: 'Noto Serif', serif;
-    
+    font-weight: 500; /*GROSSOR DE TIPOGRAFIA, LA FUENTE DEBE SER COMPATIBLE - SE PUEDE AGREGAR EN EL LINK DE HTML*/
+    text-transform: uppercase; /*ME PONE TODO EN MAYUSCULAS*/
+    text-align: center; /*ALINEA TEXTO.*/
 }
+
 
